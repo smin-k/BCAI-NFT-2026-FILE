@@ -1,7 +1,7 @@
 {
   "name": "Lab Creature #9",
   "description": "This NFT was created in the BCAI2026 class.",
-  "image": "https://heungno.net/nft/images/9.png",
+  "image": "https://raw.githubusercontent.com/smin-k/BCAI-NFT-2026-FILE/refs/heads/main/9.png",
   "attributes": [
     { "trait_type": "Type", "value": "Penguin" },
     { "trait_type": "Color", "value": "Navy" },

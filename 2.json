@@ -1,7 +1,7 @@
 {
   "name": "Lab Creature #2",
   "description": "This NFT was created in the BCAI2026 class.",
-  "image": "https://heungno.net/nft/images/2.png",
+  "image": "https://raw.githubusercontent.com/smin-k/BCAI-NFT-2026-FILE/refs/heads/main/2.png",
   "attributes": [
     { "trait_type": "Type", "value": "Owl" },
     { "trait_type": "Color", "value": "Green" },
