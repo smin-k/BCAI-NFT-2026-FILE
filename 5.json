@@ -1,0 +1,11 @@
+{
+  "name": "Lab Creature #5",
+  "description": "This NFT was created in the BCAI2026 class.",
+  "image": "https://heungno.net/nft/images/5.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Panda" },
+    { "trait_type": "Color", "value": "Black & White" },
+    { "trait_type": "Level", "value": 5 },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}
